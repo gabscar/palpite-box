@@ -1,0 +1,43 @@
+
+/*
+.cabecalho{
+    background: #66CCFF; 
+}
+*/
+
+.title{
+      @apply   bg-blue-400 p-3 shadow ;
+}
+.menu{    
+    @apply bg-blue-300 p-2 shadow-md text-center ;
+}
+
+/*
+.text{
+    padding: 8px;
+    text-align: center;
+    font-weight: bold;
+
+                <label className = 'mt-5 text-center'>E-mail</label>
+                     <input type = 'text'/>
+
+                <label>Whatsapp</label>
+                     <input type = 'text'/>
+
+                <label>Sua crítica ou sugestão</label>
+                     <input type = 'text'/>
+
+                <label>Que nota você daria ao estabelecimento</label>
+                     <input type = 'text'/>
+
+                <label>Você indicaria a amigos?</label>
+                    <input type = 'text'/>
+
+
+
+
+
+}*/
+
+
+
