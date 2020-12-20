@@ -1,4 +1,4 @@
-import React, {useState} from 'react'
+import react, {useState} from 'react'
 import Link from 'next/Link'
 import PageTitle from '../components/pageTitle'
 
@@ -89,7 +89,7 @@ const Pesquisa = () =>{
 
                 {retorno.newcupom && <div  className= 'border p-4 text-center mb-4' ><span className = 'mt-5'> {retorno.Promo}</span>
                     <br/><br/>
-                    <span className = 'font-bold mt-8'>Tire um print ou foto do cupom e mostre aoi garçom </span>
+                    <span className = 'font-bold mt-8'>Tire um print ou foto do cupom e mostre ao garçom </span>
                 
                 </div>}
             </div>}

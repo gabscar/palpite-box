@@ -1,4 +1,4 @@
-import React from 'react'
+import react from 'react'
 import Link from 'next/Link'
 import PageTitle from '../components/pageTitle'
 const Contato = () =>{

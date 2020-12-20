@@ -1,4 +1,4 @@
-import React from 'react'
+import react from 'react'
 import Link from'next/link'
 import useSWR from 'swr'
 import PageTitle from '../components/pageTitle'
