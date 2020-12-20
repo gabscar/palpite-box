@@ -48,8 +48,5 @@ rapidly building custom designs.
 
 ## Licença
 
-Este projeto é licenciado sobre a licença MIT - veja [LICENSE.md](LICENSE.md) para mais informações.
+Este projeto é licenciado sobre a licença MIT.
 
-## Acknowledgments
-
-* Este projeto foi construído durante a Semana Fullstack Master do [DevPleno](https://devpleno.com).
